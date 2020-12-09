@@ -1,0 +1,26 @@
+@import 'reset';
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+html {
+	font-size: 62.5%;
+}
+html, body {
+	font-family: 'Ubuntu', sans-serif;
+}
+body {
+   font-size: 1.8rem;
+   font-weight: 100;
+   color: #ffffff;
+
+   a:focus {
+      outline: none;
+   }
+}
+a {
+   color: #ffffff;
+   text-decoration: none;
+}
